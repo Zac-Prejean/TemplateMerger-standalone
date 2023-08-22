@@ -1,0 +1,47 @@
+I) Daily Routine in order:
+
+    Run head-cleaning on each 40 and 90.
+    Check ink bags.
+    Check filters.
+    Run nozzle check with highted box and computer paper on each 40 and 90.
+    Date and name each computer paper (e.g., UV01 20230714).
+
+    If Nozzle Check is bad:
+        Run another head-cleaning, then nozzle check.
+        Repeat 3 to 5 times until nozzle check is clear.
+
+    Deep Head Clean:
+        If nozzle check still comes up bad, deep head clean.
+        Take stick cleaner dipped in alcohol and wipe nozzles back to front.
+        Run a head-cleaning and nozzle check.
+
+    Check for damaged heads:
+        Check nozzle for head strikes (any residue or punctures on heads).
+
+II) Bi-weekly Maintenance or every 3 days:
+
+    Shake white ink sack.
+    Change filters.
+    Check and Clean Wiper Blade
+
+III) Monthly Maintenance or when needed:
+
+    Deep Head Clean and check for any strikes (any residue or punctures on heads).
+    Scrape off "caked on" resin from UV beds and frames with razor.
+    Oil UV track if needed (wipe off old oil).
+    Grease UV Belt if needed.
+    Check and Clean Bad Ink Bottles
+    Straighten UV light casing brackets.
+
+IV) Parts for Routine Maintenance:
+
+    Computer Paper.
+    UV Filters.
+    Scraping Razor.
+    Alcohol.
+    Rags.
+    Spray bottles for Alcohol.
+    Stick Cleaners.
+    Mirror Stick (to check underneath heads).
+    Numatic Tool Oil.
+    White Lithium Grease.
